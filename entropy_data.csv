@@ -1,0 +1,16 @@
+Branch,CGPA,Gamer,Movie Fanatic,Committed
+CSE,High,Yes,No,No
+CSE,Low,Yes,No,No
+CSE,High,Yes,Yes,No
+CSE,High,No,No,Yes
+CSE,Low,No,Yes,Yes
+ECE,Low,Yes,No,No
+ECE,High,Yes,Yes,Yes
+ECE,Low,Yes,Yes,No
+ECE,High,Yes,Yes,Yes
+ECE,High,No,Yes,Yes
+MECH,High,Yes,Yes,No
+MECH,High,No,No,No
+MECH,High,No,No,Yes
+MECH,Low,No,No,Yes
+MECH,Low,No,No,Yes
